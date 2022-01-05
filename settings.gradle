@@ -1,0 +1,2 @@
+include ':app', ':brouter_anno', ':brouter_api', ':brouter_compiler'
+rootProject.name='BRouter'
